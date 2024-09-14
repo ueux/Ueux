@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 </div> -->
 
 <h2 align="center">Leetcode Info<h2>  
-<p align="center"><a href="https://leetcode.com/ueu_x"></a>
-  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/ueu_x?theme=wtf&ext=heatmap" /> 
+<p align="center"><a href="https://leetcode.com/ueu_x"><img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/ueu_x?theme=wtf&ext=heatmap" /> </a>
+  
 </p>
 
 

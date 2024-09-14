@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <h2 align="center">Leetcode Info<h2>  
 <p align="center"> 
-  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/ueu_x?theme=wtf" />  
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/ueu_x?theme=wtf&ext=heatmap" />  
 </p>
 
 

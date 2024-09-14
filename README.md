@@ -42,25 +42,15 @@
 -->
 
   <h2 align="center">⚡ Current Stats ⚡</h2>
-<br>
-<p align="center">
-  <a href="https://github.com/ueux?tab=repositories">
+  <div align=center><a href="https://github.com/ueux?tab=repositories">
     <img width=390 src="https://streak-stats.demolab.com/?user=ueux&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  </a>
-</p>
-  
-<p align="center">
-  <a href="https://github.com/ueux#user-activity-overview">
+  </a><a href="https://github.com/ueux#user-activity-overview">
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=ueux&show_icons=true&theme=react&border_radius=10" alt="readme stats" />
 
+  </a><a href="https://github.com/ueux#user-activity-overview">  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ueux&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
   </a>
-</p>
+</div>
 
-<p align="center">
-  <a href="https://github.com/ueux#user-activity-overview">  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ueux&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-  </a>
-</p>
-  <br/>
   <div align="center"> 
   
 

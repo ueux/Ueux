@@ -38,7 +38,7 @@ Here are some ideas to get you started:
   
 <p align="center">
   <a href="https://github.com/ueux#user-activity-overview">
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=ueux&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=ueux&show_icons=true&theme=react&border_radius=10" alt="readme stats" />
 
   </a>
 </p>

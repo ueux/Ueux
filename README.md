@@ -15,7 +15,7 @@
   ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js)
 
 - **Databases:** 
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-brightgreen?style=flat&logo=mongodb)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
 
 <!--
 **ueux/Ueux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

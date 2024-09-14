@@ -32,19 +32,19 @@ Here are some ideas to get you started:
 <br>
 <p align="center">
   <a href="https://github.com/ueux?tab=repositories">
-    <img title="Harsh Kumar's Github Stats" alt="Harsh Kumar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ueux&show_icons=true&count_private=true&include_all_commits=false&custom_title=GitHub%20Stats" />
+    <img width=390 src="https://streak-stats.demolab.com/?user=ueux&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   </a>
 </p>
   
 <p align="center">
   <a href="https://github.com/ueux#user-activity-overview">
-    <img title="Harsh Kumar's Github Streak" alt="Harsh Kumar's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ueux" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=ueux&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/ueux#user-activity-overview">
-     <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ueux&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <a href="https://github.com/ueux#user-activity-overview">  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ueux&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
   </a>
 </p>
   <br/>

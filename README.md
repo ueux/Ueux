@@ -75,5 +75,10 @@ It's great to see you here on my GitHub page. Today is **`<insert current date>`
 <br/>
 
 <br/><br/>
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ueux&theme=monokai&no-frame=true&margin-w=15&margin-h=15">
+</p>
+
 
 

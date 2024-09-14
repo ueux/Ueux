@@ -15,20 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center"> 
-  
-<!--   <h2>🐍 Contributions 🐍</h2>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-</div> -->
 
-<h2 align="center">Leetcode Info<h2>  
-<p align="center"><a href="https://leetcode.com/ueu_x"><img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/ueu_x?theme=wtf&ext=heatmap" /> </a>
-  
-</p>
-
-
-
-<br/>
   <h2 align="center">⚡ Current Stats ⚡</h2>
 <br>
 <p align="center">
@@ -49,6 +36,20 @@ Here are some ideas to get you started:
   </a>
 </p>
   <br/>
+  <div align="center"> 
+  
+<!--   <h2>🐍 Contributions 🐍</h2>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+</div> -->
+
+<h2 align="center">Leetcode Info<h2>  
+<p align="center"><a href="https://leetcode.com/ueu_x"><img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/ueu_x?theme=wtf&ext=heatmap" /> </a>
+  
+</p>
+
+
+
+<br/>
 
 <br/><br/>
 

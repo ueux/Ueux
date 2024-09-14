@@ -1,6 +1,8 @@
 ## Hey , I'm Harsh 👋
 [![Linkedin Badge](https://img.shields.io/badge/-HarshKumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathangin/)](https://www.linkedin.com/in/harsh-kumar-000655272?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
+![Visitor Count](https://komarev.com/ghpvc/?username=ueux&style=flat-square&color=blue)
+
 <!--
 **ueux/Ueux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

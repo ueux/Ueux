@@ -5,7 +5,8 @@
 
 
 
-### 🛠️ Tech Stack
+
+<h2 align="center">🛠️ Tech Stack</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -54,8 +55,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### ⚡ Current Stats ⚡
-  <h2 align="center"></h2>
+
+  <h2 align="center">⚡ Current Stats ⚡</h2>
 <br>
 <p align="center">
   <a href="https://github.com/ueux?tab=repositories">

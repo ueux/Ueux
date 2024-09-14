@@ -1,11 +1,21 @@
 ## Hey , I'm Harsh 👋
 [![Linkedin Badge](https://img.shields.io/badge/-HarshKumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathangin/)](https://www.linkedin.com/in/harsh-kumar-000655272?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=ueux&style=flat-square&color=blue)
-
 ### 🛠️ Tech Stack
-- **Languages:** ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript), ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python)
-- **Frameworks:** ![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react), ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js)
+- **Languages:** 
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript), 
+  ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python),
+  ![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=java),
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=typescript)
+
+- **Frameworks/Libraries:** 
+  ![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react),
+  ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js),
+  ![Express](https://img.shields.io/badge/-Express-lightgrey?style=flat&logo=express),
+  ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js)
+
+- **Databases:** 
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-brightgreen?style=flat&logo=mongodb)
 
 <!--
 **ueux/Ueux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

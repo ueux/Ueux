@@ -54,7 +54,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  <h2 align="center">⚡ Current Stats ⚡</h2>
+### ⚡ Current Stats ⚡
+  <h2 align="center"></h2>
 <br>
 <p align="center">
   <a href="https://github.com/ueux?tab=repositories">

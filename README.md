@@ -3,6 +3,10 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=ueux&style=flat-square&color=blue)
 
+### 🛠️ Tech Stack
+- **Languages:** ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript), ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python)
+- **Frameworks:** ![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react), ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js)
+
 <!--
 **ueux/Ueux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

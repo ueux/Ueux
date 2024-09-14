@@ -3,7 +3,6 @@
 
 
 ### 👋 Welcome Visitor!
-![Welcome](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
 It's great to see you here on my GitHub page. Today is **`<current_date>`**  and I'm probably working on a cool project right now!
 

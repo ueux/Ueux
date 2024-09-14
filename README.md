@@ -3,9 +3,9 @@
 
 ### 🛠️ Tech Stack
 - **Languages:** 
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)  
-  ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python) 
-  ![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=java) 
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
+  ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
+  ![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=java)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript)
 
 - **Frameworks/Libraries:** 

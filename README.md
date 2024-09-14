@@ -1,13 +1,7 @@
 ## Hey , I'm Harsh 👋
 [![Linkedin Badge](https://img.shields.io/badge/-HarshKumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathangin/)](https://www.linkedin.com/in/harsh-kumar-000655272?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-</p>
+
 
 
 
@@ -27,6 +21,7 @@
 </p>
 
 
+<!-- 
 ### 🛠️ Tech Stack
 - **Languages:** 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
@@ -42,6 +37,7 @@
 
 - **Databases:** 
   ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
+-->
 
 <!--
 **ueux/Ueux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

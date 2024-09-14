@@ -10,14 +10,17 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # Update the checkout action to v3 to use Node.js 16
       - name: Checkout Repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
+      # Update README with current date
       - name: Update README with current date
         run: |
           current_date=$(date +"%B %d, %Y")
           sed -i "s/Today is .*/Today is **\`$current_date\`** and I'm probably working on a cool project right now!/" README.md
 
+      # Commit the changes
       - name: Commit changes
         run: |
           git config --local user.name "GitHub Action"

@@ -1,8 +1,7 @@
 ## Hey , I'm Harsh 👋
 [![Linkedin Badge](https://img.shields.io/badge/-HarshKumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathangin/)](https://www.linkedin.com/in/harsh-kumar-000655272?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-### 👋 Welcome Visitor!
-It's great to see you here on my GitHub page. Today is **`<current_date>`** and I'm probably working on a cool project right now!
+
 
 
 

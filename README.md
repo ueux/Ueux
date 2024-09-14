@@ -3,7 +3,7 @@
 
 ### 🛠️ Tech Stack
 - **Languages:** 
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript), 
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript), 
   ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python),
   ![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=java),
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=typescript)

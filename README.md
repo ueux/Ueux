@@ -55,7 +55,7 @@
   
 
 <h2 align="center">Leetcode Info<h2>  
-<p align="center"><a href="https://leetcode.com/ueu_x"><img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/ueu_x?theme=wtf&ext=heatmap" /> </a>
+<p align="center"><a href="https://leetcode.com/ueu_x"><img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/ueu_x?theme=dark&font=Nunito&ext=heatmap" />  </a>
   
 </p>
 

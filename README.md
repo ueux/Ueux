@@ -1,6 +1,12 @@
 ## Hey , I'm Harsh 👋
 [![Linkedin Badge](https://img.shields.io/badge/-HarshKumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathangin/)](https://www.linkedin.com/in/harsh-kumar-000655272?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
+<h2 align="center">🐍 Watch my contributions snake its way around 🐍</h2>
+<p align="center">
+  <img alt="snake" src="https://github.com/ueux/ueux/blob/output/github-contribution-grid-snake.svg">
+</p>
+
+
 ### 🛠️ Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black">

@@ -3,7 +3,7 @@
 
 
 ### 👋 Welcome Visitor!
-It's great to see you here on my GitHub page. Today is **`<insert current date>`** and I'm probably working on a cool project right now!
+It's great to see you here on my GitHub page. Today is **`current_date=$(date +"%B %d, %Y")`** and I'm probably working on a cool project right now!
 
 
 

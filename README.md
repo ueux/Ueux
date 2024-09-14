@@ -3,15 +3,15 @@
 
 ### 🛠️ Tech Stack
 - **Languages:** 
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript), 
-  ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python),
-  ![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=java),
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=typescript)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)  
+  ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python) 
+  ![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=java) 
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript)
 
 - **Frameworks/Libraries:** 
-  ![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react),
-  ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js),
-  ![Express](https://img.shields.io/badge/-Express-lightgrey?style=flat&logo=express),
+  ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react) 
+  ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js) 
+  ![Express](https://img.shields.io/badge/-Express-black?style=flat&logo=express) 
   ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js)
 
 - **Databases:** 

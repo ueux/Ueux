@@ -61,13 +61,13 @@ I enjoy building **impactful web applications**, tinkering with **machine intell
 
 <div align="center">
   <a href="https://github.com/ueux">
-    <img width="390" src="https://streak-stats.demolab.com/?user=ueux&count_private=true&theme=react&border_radius=10" alt="Streak Stats"/>
+    <img width="350" height="300" src="https://streak-stats.demolab.com/?user=ueux&count_private=true&theme=tokyonight&border_radius=10" alt="Streak Stats"/>
   </a>
   <a href="https://github.com/ueux">
-    <img width="390" src="https://github-readme-stats.vercel.app/api?username=ueux&show_icons=true&theme=react&border_radius=10" alt="GitHub Stats" />
+    <img width="350" src="https://github-readme-stats.vercel.app/api?username=ueux&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/ueux">
-    <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ueux&hide=html&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Languages"/>
+    <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ueux&exclude_repo=AGI&hide=html,makefile&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages"/>
   </a>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ueux&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </div>
@@ -78,7 +78,7 @@ I enjoy building **impactful web applications**, tinkering with **machine intell
 
 <p align="center">
   <a href="https://leetcode.com/ueu_x">
-    <img src="https://leetcard.jacoblin.cool/ueu_x?theme=dark&font=Nunito&ext=heatmap" />
+    <img src="https://leetcard.jacoblin.cool/ueu_x?theme=unicorn&font=patrick_hand" />
   </a>
 </p>
 

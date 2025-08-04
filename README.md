@@ -1,52 +1,84 @@
-## Hey , I'm Harsh 👋
-[![Linkedin Badge](https://img.shields.io/badge/-HarshKumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathangin/)](https://www.linkedin.com/in/harsh-kumar-000655272?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![LeetCode Badge](https://img.shields.io/badge/-LeetCode-orange?style=flat-square&logo=LeetCode&logoColor=white)](https://leetcode.com/ueu_x)
+<h2 align="left">
+  Hola Devs! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h2>
 
-
-<h2 align="center">🛠️ Tech Stack</h2>
-<a href="https://github.com/ueux?tab=repositories">
-  <p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+<p align="right">
+  
+  [![Email](https://img.shields.io/badge/Email-hemenderkumar3000%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:hemenderkumar3000@gmail.com)
+  [![GitHub followers](https://img.shields.io/github/followers/ueux?logo=github&style=flat-square&color=0891b2&labelColor=1c1917)](https://github.com/ueux)
 </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/-Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-</p>
-</a>
-<!-- 
-### 🛠️ Tech Stack
-- **Languages:** 
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
-  ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
-  ![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=java)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript)
-- **Frameworks/Libraries:** 
-  ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react) 
-  ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js) 
-  ![Express](https://img.shields.io/badge/-Express-black?style=flat&logo=express) 
-  ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js)
-- **Databases:** 
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
--->
 
-  <h2 align="center">⚡ Current Stats ⚡</h2>
-  <div align=center><a href="https://github.com/ueux?tab=repositories">
-    <img width=390 src="https://streak-stats.demolab.com/?user=ueux&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  </a><a href="https://github.com/ueux#user-activity-overview">
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=ueux&show_icons=true&theme=react&border_radius=10" alt="readme stats" />
-  </a><a href="https://github.com/ueux#user-activity-overview">  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ueux&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<img src="https://octodex.github.com/images/murakamicat.png" width="250" align="right" />
+
+### 👋 I'm Harsh — A Curious Builder from India
+
+💻 Full-Stack Developer | 🧠 AI Explorer | ⚙️ Robotics Enthusiast  
+I enjoy building **impactful web applications**, tinkering with **machine intelligence**, and crafting **tech experiments**.
+
+#### 🔧 Currently Playing With:
+- **Next.js**, **TypeScript**, and **Tailwind CSS**
+- **Python**, **AI/ML**, and **Computer Vision**
+- **MERN stack** for full-stack applications
+
+---
+
+### 🚀 What I’m Up To
+
+- 🔭 Building robust apps with MERN + modern tooling  
+- 🤖 Exploring Python libraries like `OpenCV`, `TensorFlow`, `Keras`  
+- 🌱 Diving deeper into **AI**, **robotics**, and **DevOps**  
+- ✨ Working on personal automation tools and side projects
+
+---
+
+### 🧰 Languages & Tools
+
+<p align="left">
+  <a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,redux,tailwind,vite,nodejs,express,aws,mongodb,postman,git,github,vercel,docker,mysql,prisma,firebase,py,opencv,tensorflow&perline=12" />
   </a>
-</div>
-  <div align="center"> 
-<h2 align="center">Leetcode Info<h2>  
-<p align="center"><a href="https://leetcode.com/ueu_x"><img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/ueu_x?theme=dark&font=Nunito&ext=heatmap" />  </a>
 </p>
-<br/>
-<br/>
-<br/>
+
+---
+
+### 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/harsh-kumar-000655272" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/ueu_x" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=LeetCode&logoColor=white" />
+  </a>
+  <a href="https://github.com/ueux" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/ueux">
+    <img width="390" src="https://streak-stats.demolab.com/?user=ueux&count_private=true&theme=react&border_radius=10" alt="Streak Stats"/>
+  </a>
+  <a href="https://github.com/ueux">
+    <img width="390" src="https://github-readme-stats.vercel.app/api?username=ueux&show_icons=true&theme=react&border_radius=10" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/ueux">
+    <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ueux&hide=html&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Languages"/>
+  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ueux&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</div>
+
+---
+
+### 🧠 LeetCode Stats
+
+<p align="center">
+  <a href="https://leetcode.com/ueu_x">
+    <img src="https://leetcard.jacoblin.cool/ueu_x?theme=dark&font=Nunito&ext=heatmap" />
+  </a>
+</p>
+

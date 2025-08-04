@@ -5,7 +5,6 @@
 <p align="right">
   
   [![Email](https://img.shields.io/badge/Email-hemenderkumar3000%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:hemenderkumar3000@gmail.com)
-  [![GitHub followers](https://img.shields.io/github/followers/ueux?logo=github&style=flat-square&color=0891b2&labelColor=1c1917)](https://github.com/ueux)
   <!--[![Portfolio](https://img.shields.io/badge/Portfolio-sibylassana.vercel.app-blue?style=flat-square&logo=vercel)](https://sibylassana.vercel.app/)-->
 </p>
 

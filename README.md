@@ -74,11 +74,14 @@ I enjoy building **impactful web applications**, tinkering with **machine intell
 
 ---
 
-### 🧠 LeetCode Stats
+### 🧠 Stats
 
 <p align="center">
   <a href="https://leetcode.com/ueu_x">
     <img src="https://leetcard.jacoblin.cool/ueu_x?theme=unicorn&font=patrick_hand&ext=heatmap" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/hemenderk23q8/">
+    <img src="https://gfgstatscard.vercel.app/hemenderk23q8" />
   </a>
 </p>
 

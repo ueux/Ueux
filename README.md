@@ -80,8 +80,8 @@ I enjoy building **impactful web applications**, tinkering with **machine intell
   <a href="https://leetcode.com/ueu_x">
     <img src="https://leetcard.jacoblin.cool/ueu_x?theme=unicorn&font=patrick_hand&ext=heatmap" />
   </a>
-  <a href="https://www.geeksforgeeks.org/user/hemenderk23q8/">
-    <img src="https://gfgstatscard.vercel.app/hemenderk23q8" />
+  <a href="https://www.geeksforgeeks.org/user/harshkumadc31/">
+    <img src="https://gfgstatscard.vercel.app/harshkumadc31" />
   </a>
 </p>
 

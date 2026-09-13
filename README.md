@@ -63,7 +63,7 @@ I am a passionate **Software Engineer, AI Developer, and Robotics Enthusiast** d
 
 <br>
 <div align="center">
-  <a href="https://github.com/ueux/ueux/raw/main/Harsh_Kumar_Resume.pdf" download>
+  <a href="https://github.com/ueux/ueux/raw/main/Harsh_Kumar_FullStack_Backend_Resume.pdf" download>
     <img src="https://img.shields.io/badge/📥_Download_CV-238636?style=for-the-badge&logoColor=white" alt="Download CV" style="margin-right: 10px;">
   </a>
   

@@ -1,13 +1,19 @@
-<div>
+<div align="center">
+
   <a href="https://www.kaggle.com/ueux404" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-Expert-9100FF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle Expert" height="28" />
   </a>
-  
+
   <img src="https://komarev.com/ghpvc/?username=ueux&color=blue&style=flat-square&label=PROFILE%20VIEWS" alt="Profile Views" height="28" />
-  
-  <img src="https://img.shields.io/github/stars/ueux?style=flat&logo=github&color=FFDD7E&label=TOTAL%20STARS" alt="Total Stars" height="28" />
+  <img src="https://ghstats.dev/api/mini?username=ueux&theme=radical&style=plastic" alt="GitHub Mini Badge" />
+  <img src="https://ghstats.dev/api/mini?username=ueux&theme=radical&metric=commits&style=plastic" alt="GitHub Mini Badge" />
+  <img src="https://ghstats.dev/api/mini?username=ueux&theme=radical&metric=prs&style=plastic" alt="GitHub Mini Badge" />
+  <img src="https://ghstats.dev/api/mini?username=ueux&theme=radical&metric=issues&style=plastic" alt="GitHub Mini Badge" />
+  <img src="https://ghstats.dev/api/mini?username=ueux&theme=radical&metric=streak&style=plastic" alt="GitHub Mini Badge" />
+  <img src="https://ghstats.dev/api/mini?username=ueux&theme=radical&metric=repos&style=plastic" alt="GitHub Mini Badge" />
+  <img src="https://ghstats.dev/api/mini?username=ueux&theme=radical&metric=contributions&style=plastic" alt="GitHub Mini Badge" />
+
 </div>
-<br>
 
 <div align="center">
   <p align="center">
@@ -160,11 +166,20 @@ I am a passionate **Software Engineer, AI Developer, and Robotics Enthusiast** d
 ## 📈 GitHub Stats
 
 <div align="center">
-   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ueux&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="50%" />
+   <img src="https://ghstats.dev/api/card?username=ueux&theme=radical" width="50%" />
   
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ueux&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
-  <img src="https://streak-stats.demolab.com?user=ueux&theme=transparent&border_radius=10&date_format=M+j%5B%2C+Y%5D&side_items=true&stroke=3B82F6&ring=FF4081&hide_border=true&random=1" width="90%" />
+  <img src="https://ghstats.dev/api/langs?username=ueux&theme=radical&max_langs=12&layout=vertical_list" width="45%" />
+  <img
+    src="https://github-statspro.vercel.app/api/skills?theme=radical&username=ueux&auto_detect=true&group=true"
+    alt="Skills Card"
+  />
 <br>
+<p align="center">
+  <img
+    src="https://github-statspro.vercel.app/api/streak/ueux?theme=radical"
+    alt="Streak Card"
+  />
+</p>
 <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/ueux/ueux/output/github-contribution-grid-snake-dark.svg">
@@ -173,35 +188,103 @@ I am a passionate **Software Engineer, AI Developer, and Robotics Enthusiast** d
   <img alt="Snake animation"
     src="https://raw.githubusercontent.com/ueux/ueux/output/github-contribution-grid-snake.svg">
 </picture>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ueux&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+<img src="https://ghstats.dev/api/sparkline?username=ueux&theme=radical&days=30&width=820&height=100" alt="Contribution Graph" />
 </div>
 
 ---
 
-## 📞 Get In Touch
+🚀 Featured Projects
 
 <div align="center">
-  <a href="mailto:hemenderkumar3000@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://www.linkedin.com/in/harsh-kumar-000655272/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.kaggle.com/ueux404" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" /></a>
-  <!-- <a href="https://huggingface.co/zeyadusf" target="_blank"><img src="https://img.shields.io/badge/HuggingFace-F9AB00?style=for-the-badge&logo=huggingface&logoColor=white" alt="HuggingFace" /></a> -->
-  <a href="https://github.com/ueux" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://leetcode.com/ueu_x" target="_blank"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode"></a>
+
+  <p align="center">
+    <img
+      src="https://github-statspro.vercel.app/api/repo?theme=radical&owner=ueux&repo=ULOGS"
+      alt="ULOGS Repository Card"
+    />
+  </p>
+
+  <p align="center">
+    <img
+      src="https://github-statspro.vercel.app/api/repo?theme=radical&owner=ueux&repo=MyTube"
+      alt="MyTube Repository Card"
+    />
+  </p>
+
 </div>
 
----
-
-### 🧠 Coding Stats
+🧠 Coding Stats
 
 <p align="center">
-  <a href="https://leetcode.com/ueu_x">
-    <img src="https://leetcard.jacoblin.cool/ueu_x?theme=unicorn&font=patrick_hand&ext=heatmap" alt="LeetCode Stats" width="40%"/>
+  <a href="https://leetcode.com/ueu_x" target="_blank">
+    <img
+      src="https://leetcard.jacoblin.cool/ueu_x?theme=unicorn&font=patrick_hand&ext=heatmap"
+      alt="LeetCode Stats"
+      width="40%"
+    />
   </a>
-  <a href="https://www.geeksforgeeks.org/user/harshkumadc31/">
-    <img src="https://gfgstatscard.vercel.app/harshkumadc31" alt="GeeksforGeeks Stats" width="40%"/>
+
+  <a href="https://www.geeksforgeeks.org/user/harshkumadc31/" target="_blank">
+    <img
+      src="https://gfgstatscard.vercel.app/harshkumadc31"
+      alt="GeeksforGeeks Stats"
+      width="40%"
+    />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+  <img
+    src="https://github-statspro.vercel.app/api/activity/ueux?theme=radical"
+    alt="GitHub Activity"
+  />
+</p>
+
+📞 Get In Touch
+
+<p align="center">
+
+  <a href="mailto:hemenderkumar3000@gmail.com" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Gmail"
+    />
+  </a>
+
+  <a href="https://www.linkedin.com/in/harsh-kumar-000655272/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+
+  <a href="https://www.kaggle.com/ueux404" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"
+      alt="Kaggle"
+    />
+  </a>
+
+  <a href="https://github.com/ueux" target="_blank">
+    <img
+      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
+  </a>
+
+  <a href="https://leetcode.com/ueu_x" target="_blank">
+    <img
+      src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=LeetCode&logoColor=white"
+      alt="LeetCode"
+    />
+  </a>
+
+</p>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"
+    width="100%"
+    alt="Footer"
+  />
 </p>

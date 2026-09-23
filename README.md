@@ -81,40 +81,42 @@ I am a passionate **Software Engineer, AI Developer, and Robotics Enthusiast** d
 
 ---
 
+<!--
+
 ## 🚀 Technical Skills 
 
 <div align="center">
   <table border="0">
     <tr>
-  <!-- Languages -->
+  
   <td align="center" width="160"><img src="https://skillicons.dev/icons?i=python" width="48"/><br><b>Python</b></td>
   <td align="center" width="160"><img src="https://skillicons.dev/icons?i=js" width="48"/><br><b>JavaScript</b></td>
   <td align="center" width="160"><img src="https://skillicons.dev/icons?i=ts" width="48"/><br><b>TypeScript</b></td>
   <td align="center" width="160"><img src="https://skillicons.dev/icons?i=cpp" width="48"/><br><b>C++</b></td>
   <td align="center" width="160"><img src="https://skillicons.dev/icons?i=java" width="48"/><br><b>Java</b></td>
 
-  <!-- Frontend -->
+  
   <td align="center" width="160"><img src="https://skillicons.dev/icons?i=html" width="48"/><br><b>HTML5</b></td>
   <td align="center" width="160"><img src="https://skillicons.dev/icons?i=css" width="48"/><br><b>CSS3</b></td>
   <td align="center" width="160"><img src="https://skillicons.dev/icons?i=sass" width="48"/><br><b>Sass</b></td>
 </tr>
 
 <tr>
-  <!-- Frontend -->
+  
   <td align="center" width="160"><img src="https://skillicons.dev/icons?i=react" width="48"/><br><b>React</b></td>
   <td align="center" width="160"><img src="https://skillicons.dev/icons?i=nextjs" width="48"/><br><b>Next.js</b></td>
   <td align="center" width="160"><img src="https://skillicons.dev/icons?i=redux" width="48"/><br><b>Redux</b></td>
   <td align="center" width="160"><img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br><b>Tailwind</b></td>
   <td align="center" width="160"><img src="https://skillicons.dev/icons?i=vite" width="48"/><br><b>Vite</b></td>
 
-  <!-- Backend -->
+  
   <td align="center" width="160"><img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br><b>Node.js</b></td>
   <td align="center" width="160"><img src="https://skillicons.dev/icons?i=express" width="48"/><br><b>Express</b></td>
   <td align="center" width="160"><img src="https://skillicons.dev/icons?i=fastapi" width="48"/><br><b>FastAPI</b></td>
 </tr>
 
 <tr>
-  <!-- Databases -->
+  
   <td align="center" width="160"><img src="https://skillicons.dev/icons?i=mongodb" width="48"/><br><b>MongoDB</b></td>
   <td align="center" width="160"><img src="https://skillicons.dev/icons?i=postgres" width="48"/><br><b>PostgreSQL</b></td>
   <td align="center" width="160"><img src="https://skillicons.dev/icons?i=mysql" width="48"/><br><b>MySQL</b></td>
@@ -122,19 +124,19 @@ I am a passionate **Software Engineer, AI Developer, and Robotics Enthusiast** d
   <td align="center" width="160"><img src="https://skillicons.dev/icons?i=prisma" width="48"/><br><b>Prisma</b></td>
   <td align="center" width="160"><img src="https://skillicons.dev/icons?i=firebase" width="48"/><br><b>Firebase</b></td>
 
-  <!-- AI -->
+  
   <td align="center" width="160"><img src="https://skillicons.dev/icons?i=pytorch" width="48"/><br><b>PyTorch</b></td>
   <td align="center" width="160"><img src="https://skillicons.dev/icons?i=tensorflow" width="48"/><br><b>TensorFlow</b></td>
 </tr>
 
 <tr>
-  <!-- AI -->
+  
   <td align="center" width="160"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48"/><br><b>Hugging Face</b></td>
   <td align="center" width="160"><img src="https://skillicons.dev/icons?i=opencv" width="48"/><br><b>OpenCV</b></td>
   <td align="center" width="160"><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/></td>
   <td align="center" width="160"><img src="https://img.shields.io/badge/RAG_Pipelines-FF4081?style=for-the-badge&logo=gitbook&logoColor=white"/></td>
 
-  <!-- Cloud / DevOps -->
+  
   <td align="center" width="160"><img src="https://skillicons.dev/icons?i=aws" width="48"/><br><b>AWS</b></td>
   <td align="center" width="160"><img src="https://skillicons.dev/icons?i=docker" width="48"/><br><b>Docker</b></td>
   <td align="center" width="160"><img src="https://skillicons.dev/icons?i=git" width="48"/><br><b>Git</b></td>
@@ -142,7 +144,7 @@ I am a passionate **Software Engineer, AI Developer, and Robotics Enthusiast** d
 </tr>
 
 <tr>
-  <!-- Tools -->
+  
   <td align="center" width="160"><img src="https://skillicons.dev/icons?i=vercel" width="48"/><br><b>Vercel</b></td>
   <td align="center" width="160"><img src="https://skillicons.dev/icons?i=postman" width="48"/><br><b>Postman</b></td>
   <td align="center" width="160"><img src="https://skillicons.dev/icons?i=vscode" width="48"/><br><b>VS Code</b></td>
@@ -160,6 +162,8 @@ I am a passionate **Software Engineer, AI Developer, and Robotics Enthusiast** d
   <img src="https://img.shields.io/badge/Focus-AI_&_Data_Science-blue?style=flat-square&logo=brain" />
   <img src="https://img.shields.io/badge/Specialty-RAG_&_LLMs-orange?style=flat-square&logo=chainlink" />
 </div>
+
+-->
 
 ---
 

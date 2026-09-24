@@ -210,8 +210,8 @@ I am a passionate **Software Engineer, AI Developer, and Robotics Enthusiast** d
 
   <p align="center">
     <img
-      src="https://github-statspro.vercel.app/api/repo?theme=radical&owner=ueux&repo=MyTube"
-      alt="MyTube Repository Card"
+      src="https://github-statspro.vercel.app/api/repo?theme=radical&owner=ueux&repo=UTube"
+      alt="UTube Repository Card"
     />
   </p>
 

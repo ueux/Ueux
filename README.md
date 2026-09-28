@@ -1,9 +1,4 @@
 <div align="center">
-
-  <a href="https://www.kaggle.com/ueux404" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-Expert-9100FF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle Expert" height="28" />
-  </a>
-
   <img src="https://komarev.com/ghpvc/?username=ueux&color=blue&style=flat-square&label=PROFILE%20VIEWS" alt="Profile Views" height="28" />
   <img src="https://ghstats.dev/api/mini?username=ueux&theme=radical&style=plastic" alt="GitHub Mini Badge" />
   <img src="https://ghstats.dev/api/mini?username=ueux&theme=radical&metric=commits&style=plastic" alt="GitHub Mini Badge" />

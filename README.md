@@ -12,7 +12,7 @@
   <a href="https://ueux.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/💼_Portfolio-007ACC?style=for-the-badge&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://github.com/ueux/ueux/raw/main/Harsh_Kumar_FullStack_Backend_Resume.pdf" download>
+  <a href="https://github.com/ueux/ueux/raw/main/MyResume (2).pdf" download>
     <img src="https://img.shields.io/badge/📥_Download_CV-238636?style=for-the-badge&logoColor=white" alt="Download CV" />
   </a>
 

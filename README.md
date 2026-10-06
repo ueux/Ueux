@@ -1,289 +1,214 @@
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ueux&color=blue&style=flat-square&label=PROFILE%20VIEWS" alt="Profile Views" height="28" />
-  <img src="https://ghstats.dev/api/mini?username=ueux&theme=radical&style=plastic" alt="GitHub Mini Badge" />
-  <img src="https://ghstats.dev/api/mini?username=ueux&theme=radical&metric=commits&style=plastic" alt="GitHub Mini Badge" />
-  <img src="https://ghstats.dev/api/mini?username=ueux&theme=radical&metric=prs&style=plastic" alt="GitHub Mini Badge" />
-  <img src="https://ghstats.dev/api/mini?username=ueux&theme=radical&metric=issues&style=plastic" alt="GitHub Mini Badge" />
-  <img src="https://ghstats.dev/api/mini?username=ueux&theme=radical&metric=streak&style=plastic" alt="GitHub Mini Badge" />
-  <img src="https://ghstats.dev/api/mini?username=ueux&theme=radical&metric=repos&style=plastic" alt="GitHub Mini Badge" />
-  <img src="https://ghstats.dev/api/mini?username=ueux&theme=radical&metric=contributions&style=plastic" alt="GitHub Mini Badge" />
-
-</div>
+<!-- ═══════════════════════════ HERO ═══════════════════════════ -->
 
 <div align="center">
-  <p align="center">
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" width="100%" />
- </p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Harsh%20Kumar&fontSize=60&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Software%20Engineer%20%C2%B7%20AI%20Developer%20%C2%B7%20Robotics%20Enthusiast&descSize=18&descAlignY=58" width="100%" alt="Harsh Kumar header" />
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=1200&pause=1500&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Harsh+Kumar;Software+Engineer+and+AI+Developer;Building+Web%2C+AI+and+Robotics+Projects;Always+Learning+Something+New+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-<br>
-<br>
-<a href="https://www.kaggle.com/ueux404" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="zeyadusf" height="30" width="40" />
-</a>
-
-
-<!-- <a href="https://huggingface.co/zeyadusf" target="blank">
-  <img align="center" src="https://github.com/zeyadusf/zeyadusf/assets/83798621/5c3db142-cda7-4c55-bcce-cc09d5b3aa50" alt="zeyadusf" height="40" width="40" />
-</a>  -->
-
- <a href="https://github.com/ueux" target="blank">
-   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="zeyadusf" height="30" width="40" />
- </a>
-  
-<a href="https://www.linkedin.com/in/harsh-kumar-000655272/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="Zeyad Usf" height="30" width="40" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=1200&pause=1500&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Harsh+Kumar;Software+Engineer+and+AI+Developer;Building+Web%2C+AI+and+Robotics+Projects;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
-  
-  
-  <!-- <a href="https://www.facebook.com/ziayd.yosif" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Zeyad Usf" height="30" width="40" />
-  </a> -->
-  
-<a href="https://www.instagram.com/_harsh_6_1" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zeyadusf" height="30" width="40" />
-</a> 
-  
-</div>
 
-
----
-
-## 🎯 About Me
-
-I am a passionate **Software Engineer, AI Developer, and Robotics Enthusiast** dedicated to building intelligent systems and impactful digital products. My interests span across full-stack development, machine learning, and robotics, where I combine creativity with engineering to solve real-world problems.
-
-* 💻 **Core Expertise:** Full-Stack Development, Software Engineering, and Data Structures & Algorithms.
-* 🌐 **Tech Stack:** React, Next.js, Node.js, Express.js, MongoDB, PostgreSQL, TypeScript, and Python.
-* 🧠 **Current Focus:** Large Language Models (LLMs), Machine Learning, Computer Vision, and AI Agents.
-* 🤖 **Exploring:** Robotics, Automation, Human-Robot Interaction, and Intelligent Systems.
-* 🚀 **Projects:** Building AI-powered applications, modern web platforms, and robotics solutions.
-* 🌱 **Mission:** To create innovative technologies that bridge the gap between software, AI, and robotics.
-
-<br>
-<div align="center">
-  <a href="https://github.com/ueux/ueux/raw/main/Harsh_Kumar_FullStack_Backend_Resume.pdf" download>
-    <img src="https://img.shields.io/badge/📥_Download_CV-238636?style=for-the-badge&logoColor=white" alt="Download CV" style="margin-right: 10px;">
-  </a>
-  
-  <a href="https://ueux.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/💼_Portfolio-007ACC?style=for-the-badge&logoColor=white" alt="View Portfolio">
-  </a>
   <br><br>
+
+  <a href="https://ueux.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/💼_Portfolio-007ACC?style=for-the-badge&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/ueux/ueux/raw/main/Harsh_Kumar_FullStack_Backend_Resume.pdf" download>
+    <img src="https://img.shields.io/badge/📥_Download_CV-238636?style=for-the-badge&logoColor=white" alt="Download CV" />
+  </a>
+
+  <br><br>
+
+  <img src="https://ghstats.dev/api/mini?username=ueux&theme=radical&style=plastic" alt="GitHub badge" />
+  <img src="https://ghstats.dev/api/mini?username=ueux&theme=radical&metric=commits&style=plastic" alt="Commits" />
+  <img src="https://ghstats.dev/api/mini?username=ueux&theme=radical&metric=prs&style=plastic" alt="Pull requests" />
+  <img src="https://ghstats.dev/api/mini?username=ueux&theme=radical&metric=issues&style=plastic" alt="Issues" />
+  <img src="https://ghstats.dev/api/mini?username=ueux&theme=radical&metric=streak&style=plastic" alt="Streak" />
+  <img src="https://ghstats.dev/api/mini?username=ueux&theme=radical&metric=repos&style=plastic" alt="Repos" />
+  <img src="https://ghstats.dev/api/mini?username=ueux&theme=radical&metric=contributions&style=plastic" alt="Contributions" />
 </div>
 
----
-
-<!--
-
-## 🚀 Technical Skills 
-
-<div align="center">
-  <table border="0">
-    <tr>
-  
-  <td align="center" width="160"><img src="https://skillicons.dev/icons?i=python" width="48"/><br><b>Python</b></td>
-  <td align="center" width="160"><img src="https://skillicons.dev/icons?i=js" width="48"/><br><b>JavaScript</b></td>
-  <td align="center" width="160"><img src="https://skillicons.dev/icons?i=ts" width="48"/><br><b>TypeScript</b></td>
-  <td align="center" width="160"><img src="https://skillicons.dev/icons?i=cpp" width="48"/><br><b>C++</b></td>
-  <td align="center" width="160"><img src="https://skillicons.dev/icons?i=java" width="48"/><br><b>Java</b></td>
-
-  
-  <td align="center" width="160"><img src="https://skillicons.dev/icons?i=html" width="48"/><br><b>HTML5</b></td>
-  <td align="center" width="160"><img src="https://skillicons.dev/icons?i=css" width="48"/><br><b>CSS3</b></td>
-  <td align="center" width="160"><img src="https://skillicons.dev/icons?i=sass" width="48"/><br><b>Sass</b></td>
-</tr>
-
-<tr>
-  
-  <td align="center" width="160"><img src="https://skillicons.dev/icons?i=react" width="48"/><br><b>React</b></td>
-  <td align="center" width="160"><img src="https://skillicons.dev/icons?i=nextjs" width="48"/><br><b>Next.js</b></td>
-  <td align="center" width="160"><img src="https://skillicons.dev/icons?i=redux" width="48"/><br><b>Redux</b></td>
-  <td align="center" width="160"><img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br><b>Tailwind</b></td>
-  <td align="center" width="160"><img src="https://skillicons.dev/icons?i=vite" width="48"/><br><b>Vite</b></td>
-
-  
-  <td align="center" width="160"><img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br><b>Node.js</b></td>
-  <td align="center" width="160"><img src="https://skillicons.dev/icons?i=express" width="48"/><br><b>Express</b></td>
-  <td align="center" width="160"><img src="https://skillicons.dev/icons?i=fastapi" width="48"/><br><b>FastAPI</b></td>
-</tr>
-
-<tr>
-  
-  <td align="center" width="160"><img src="https://skillicons.dev/icons?i=mongodb" width="48"/><br><b>MongoDB</b></td>
-  <td align="center" width="160"><img src="https://skillicons.dev/icons?i=postgres" width="48"/><br><b>PostgreSQL</b></td>
-  <td align="center" width="160"><img src="https://skillicons.dev/icons?i=mysql" width="48"/><br><b>MySQL</b></td>
-  <td align="center" width="160"><img src="https://skillicons.dev/icons?i=sqlite" width="48"/><br><b>SQLite</b></td>
-  <td align="center" width="160"><img src="https://skillicons.dev/icons?i=prisma" width="48"/><br><b>Prisma</b></td>
-  <td align="center" width="160"><img src="https://skillicons.dev/icons?i=firebase" width="48"/><br><b>Firebase</b></td>
-
-  
-  <td align="center" width="160"><img src="https://skillicons.dev/icons?i=pytorch" width="48"/><br><b>PyTorch</b></td>
-  <td align="center" width="160"><img src="https://skillicons.dev/icons?i=tensorflow" width="48"/><br><b>TensorFlow</b></td>
-</tr>
-
-<tr>
-  
-  <td align="center" width="160"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48"/><br><b>Hugging Face</b></td>
-  <td align="center" width="160"><img src="https://skillicons.dev/icons?i=opencv" width="48"/><br><b>OpenCV</b></td>
-  <td align="center" width="160"><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/></td>
-  <td align="center" width="160"><img src="https://img.shields.io/badge/RAG_Pipelines-FF4081?style=for-the-badge&logo=gitbook&logoColor=white"/></td>
-
-  
-  <td align="center" width="160"><img src="https://skillicons.dev/icons?i=aws" width="48"/><br><b>AWS</b></td>
-  <td align="center" width="160"><img src="https://skillicons.dev/icons?i=docker" width="48"/><br><b>Docker</b></td>
-  <td align="center" width="160"><img src="https://skillicons.dev/icons?i=git" width="48"/><br><b>Git</b></td>
-  <td align="center" width="160"><img src="https://skillicons.dev/icons?i=githubactions" width="48"/><br><b>CI/CD</b></td>
-</tr>
-
-<tr>
-  
-  <td align="center" width="160"><img src="https://skillicons.dev/icons?i=vercel" width="48"/><br><b>Vercel</b></td>
-  <td align="center" width="160"><img src="https://skillicons.dev/icons?i=postman" width="48"/><br><b>Postman</b></td>
-  <td align="center" width="160"><img src="https://skillicons.dev/icons?i=vscode" width="48"/><br><b>VS Code</b></td>
-  <td align="center" width="160"><img src="https://skillicons.dev/icons?i=pycharm" width="48"/><br><b>PyCharm</b></td>
-  <td align="center" width="160"><img src="https://img.icons8.com/color/48/google-colab.png" width="48"/><br><b>Colab</b></td>
-  <td align="center" width="160"><img src="https://skillicons.dev/icons?i=powershell" width="48"/><br><b>Terminal</b></td>
-  <td align="center" width="160"><img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="48"/><br><b>Tableau</b></td>
-  <td align="center" width="160"><img src="https://img.icons8.com/color/48/000000/power-bi.png" width="48"/><br><b>Power BI</b></td>
-</tr>
-  </table>
-</div>
-
-<div align="center">
-  <br>
-  <img src="https://img.shields.io/badge/Focus-AI_&_Data_Science-blue?style=flat-square&logo=brain" />
-  <img src="https://img.shields.io/badge/Specialty-RAG_&_LLMs-orange?style=flat-square&logo=chainlink" />
-</div>
-
--->
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-   <img src="https://ghstats.dev/api/card?username=ueux&theme=radical" width="50%" />
-  
-  <img src="https://ghstats.dev/api/langs?username=ueux&theme=radical&max_langs=12&layout=vertical_list" width="45%" />
-  <img
-    src="https://github-statspro.vercel.app/api/skills?theme=radical&username=ueux&auto_detect=true&group=true"
-    alt="Skills Card"
-  />
 <br>
+
+<!-- ═══════════════════════════ WHOAMI ═══════════════════════════
+     ascii portrait (left) + neofetch-style card (right)
+     portrait file: harsh-github-portrait-ascii.svg (980x980, commit it to the repo root) -->
+
+<h3 align="center"><code>harsh@github ~ $ whoami</code></h3>
+
+<div align="center">
+<table>
+<tr>
+<td valign="top"><img src="./harsh-github-portrait-ascii.svg" width="420" alt="Harsh Kumar — ASCII portrait" /></td>
+<td valign="middle">
+
+```text
+harsh@github
+────────────────────────────────────────
+Role       Software Engineer
+           AI Developer
+Focus      LLMs · ML · CV · AI Agents
+Stack      React · Next.js · Node.js
+           Express · TypeScript · Python
+Databases  MongoDB · PostgreSQL
+Exploring  Robotics · Automation · HRI
+Education  B.Tech CSE @ RIT (2023–27)
+Wins       1st place · RIT-A-THON
+Mission    Bridge software, AI & robotics
+```
+
+</td>
+</tr>
+</table>
+</div>
+
 <p align="center">
-  <img
-    src="https://github-statspro.vercel.app/api/streak/ueux?theme=radical"
-    alt="Streak Card"
-  />
+  I build <b>intelligent systems and impactful digital products</b> — from full-stack web platforms to machine learning, computer vision and robotics — combining creativity with engineering to solve real-world problems.
 </p>
+
+<p align="center"><i>"To create innovative technologies that bridge the gap between software, AI, and robotics."</i></p>
+
+---
+
+<!-- ═══════════════════════════ STACK ═══════════════════════════ -->
+
+<h3 align="center"><code>harsh@github ~ $ ./stack.sh</code></h3>
+
+<div align="center">
+<table>
+<tr>
+  <td align="right"><b>Languages</b></td>
+  <td><img src="https://skillicons.dev/icons?i=python,js,ts,cpp,java,html,css,sass&perline=8" alt="Languages" /></td>
+</tr>
+<tr>
+  <td align="right"><b>Frontend</b></td>
+  <td><img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,vite&perline=5" alt="Frontend" /></td>
+</tr>
+<tr>
+  <td align="right"><b>Backend &amp; Data</b></td>
+  <td><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,postgres,mysql,sqlite,prisma,firebase&perline=9" alt="Backend and databases" /></td>
+</tr>
+<tr>
+  <td align="right"><b>AI / ML</b></td>
+  <td>
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&perline=3" alt="AI and ML" /><br>
+    <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+    <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+    <img src="https://img.shields.io/badge/RAG_Pipelines-FF4081?style=for-the-badge&logo=gitbook&logoColor=white" alt="RAG pipelines" />
+  </td>
+</tr>
+<tr>
+  <td align="right"><b>Cloud &amp; Tools</b></td>
+  <td><img src="https://skillicons.dev/icons?i=aws,docker,git,githubactions,vercel,postman,vscode,pycharm&perline=8" alt="Cloud and tools" /></td>
+</tr>
+<tr>
+  <td align="right"><b>Data &amp; Notebooks</b></td>
+  <td>
+    <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Colab" />
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+    <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  </td>
+</tr>
+</table>
+</div>
+
+---
+
+<!-- ═══════════════════════════ CONTRIBUTIONS ═══════════════════════════ -->
+
+<h3 align="center"><code>harsh@github ~ $ ./contributions.sh</code></h3>
+
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/ueux/ueux/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/ueux/ueux/output/github-contribution-grid-snake.svg">
-  <img alt="Snake animation"
+  <img alt="Contribution snake animation"
     src="https://raw.githubusercontent.com/ueux/ueux/output/github-contribution-grid-snake.svg">
 </picture>
-<img src="https://ghstats.dev/api/sparkline?username=ueux&theme=radical&days=30&width=820&height=100" alt="Contribution Graph" />
+<br>
+<img src="https://ghstats.dev/api/sparkline?username=ueux&theme=radical&days=30&width=820&height=100" alt="30-day contribution graph" />
+</div>
+
+<br>
+
+<!-- ═══════════════════════════ STATS ═══════════════════════════ -->
+
+<h3 align="center"><code>harsh@github ~ $ ./stats.sh</code></h3>
+
+<div align="center">
+<table>
+<tr>
+  <td valign="top"><img src="https://ghstats.dev/api/card?username=ueux&theme=radical" width="420" alt="GitHub stats card" /></td>
+  <td valign="top"><img src="https://ghstats.dev/api/langs?username=ueux&theme=radical&max_langs=12&layout=vertical_list" width="420" alt="Top languages" /></td>
+</tr>
+</table>
+<img src="https://github-statspro.vercel.app/api/streak/ueux?theme=radical" alt="Streak card" />
 </div>
 
 ---
 
-🚀 Featured Projects
+<!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
+
+<h3 align="center"><code>harsh@github ~ $ ls projects/</code></h3>
 
 <div align="center">
-
-  <p align="center">
-    <img
-      src="https://github-statspro.vercel.app/api/repo?theme=radical&owner=ueux&repo=ULOGS"
-      alt="ULOGS Repository Card"
-    />
-  </p>
-
-  <p align="center">
-    <img
-      src="https://github-statspro.vercel.app/api/repo?theme=radical&owner=ueux&repo=UTube"
-      alt="UTube Repository Card"
-    />
-  </p>
-
+  <a href="https://github.com/ueux/ULOGS">
+    <img src="https://github-statspro.vercel.app/api/repo?theme=radical&owner=ueux&repo=ULOGS" width="48%" alt="ULOGS repository card" />
+  </a>
+  <a href="https://github.com/ueux/UTube">
+    <img src="https://github-statspro.vercel.app/api/repo?theme=radical&owner=ueux&repo=UTube" width="48%" alt="UTube repository card" />
+  </a>
 </div>
 
-🧠 Coding Stats
+<br>
 
-<p align="center">
+---
+
+<!-- ═══════════════════════════ CODING STATS ═══════════════════════════ -->
+
+<h3 align="center"><code>harsh@github ~ $ ./coding-stats.sh</code></h3>
+
+<div align="center">
   <a href="https://leetcode.com/ueu_x" target="_blank">
-    <img
-      src="https://leetcard.jacoblin.cool/ueu_x?theme=unicorn&font=patrick_hand&ext=heatmap"
-      alt="LeetCode Stats"
-      width="40%"
-    />
+    <img src="https://leetcard.jacoblin.cool/ueu_x?theme=unicorn&font=patrick_hand&ext=heatmap" width="45%" alt="LeetCode stats" />
   </a>
-
   <a href="https://www.geeksforgeeks.org/user/harshkumadc31/" target="_blank">
-    <img
-      src="https://gfgstatscard.vercel.app/harshkumadc31"
-      alt="GeeksforGeeks Stats"
-      width="40%"
-    />
+    <img src="https://gfgstatscard.vercel.app/harshkumadc31" width="45%" alt="GeeksforGeeks stats" />
   </a>
-</p>
+  <br>
+  <img src="https://github-statspro.vercel.app/api/activity/ueux?theme=radical" alt="GitHub activity graph" />
+</div>
+
+---
+
+<!-- ═══════════════════════════ CONTACT ═══════════════════════════ -->
+
+<h3 align="center"><code>harsh@github ~ $ ./contact.sh</code></h3>
+
+<p align="center"><i>Open to ideas, collaborations and interesting problems — say hi.</i></p>
 
 <p align="center">
-  <img
-    src="https://github-statspro.vercel.app/api/activity/ueux?theme=radical"
-    alt="GitHub Activity"
-  />
-</p>
-
-📞 Get In Touch
-
-<p align="center">
-
   <a href="mailto:hemenderkumar3000@gmail.com" target="_blank">
-    <img
-      src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Gmail"
-    />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-
   <a href="https://www.linkedin.com/in/harsh-kumar-000655272/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-
   <a href="https://www.kaggle.com/ueux404" target="_blank">
-    <img
-      src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"
-      alt="Kaggle"
-    />
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" />
   </a>
-
+  <a href="https://www.instagram.com/_harsh_6_1" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
   <a href="https://github.com/ueux" target="_blank">
-    <img
-      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
-    />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-
   <a href="https://leetcode.com/ueu_x" target="_blank">
-    <img
-      src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=LeetCode&logoColor=white"
-      alt="LeetCode"
-    />
+    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode" />
   </a>
-
 </p>
 
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"
-    width="100%"
-    alt="Footer"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" alt="Footer" />
 </p>

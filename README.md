@@ -33,6 +33,8 @@
      ascii portrait (left) + neofetch-style card (right)
      portrait file: harsh-github-portrait-ascii.svg (980x980, commit it to the repo root) -->
 
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=ueux&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+
 <h3 align="center"><code>harsh@github ~ $ whoami</code></h3>
 
 <div align="center">
@@ -52,7 +54,6 @@ Stack      React · Next.js · Node.js
 Databases  MongoDB · PostgreSQL
 Exploring  Robotics · Automation · HRI
 Education  B.Tech CSE @ RIT (2023–27)
-Wins       1st place · RIT-A-THON
 Mission    Bridge software, AI & robotics
 ```
 
@@ -67,7 +68,7 @@ Mission    Bridge software, AI & robotics
 
 <p align="center"><i>"To create innovative technologies that bridge the gap between software, AI, and robotics."</i></p>
 
----
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=ueux&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
 <!-- ═══════════════════════════ STACK ═══════════════════════════ -->
 
@@ -117,7 +118,7 @@ Mission    Bridge software, AI & robotics
 <img src="https://www.gitskins.com/api/section/heatmap?username=ueux&theme=github-dark&style=jet&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F173175073%3Fu%3D7270b905c39f82dfff7eebcc119ffd6183ad65a7%26v%3D4&v=showcase-heatmap-3" alt="Harsh Kumar heatmap visual" />
 </p> -->
 
----
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=ueux&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
 <!-- ═══════════════════════════ CONTRIBUTIONS ═══════════════════════════ -->
 
@@ -133,10 +134,10 @@ Mission    Bridge software, AI & robotics
     src="https://raw.githubusercontent.com/ueux/ueux/output/github-contribution-grid-snake.svg">
 </picture>
 <br>
-<img src="https://ghstats.dev/api/sparkline?username=ueux&theme=radical&days=30&width=820&height=100" alt="30-day contribution graph" />
+<img src="https://github-statspro.vercel.app/api/activity/ueux?theme=radical" alt="GitHub activity graph" />
 </div>
-
 <br>
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=ueux&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
 <!-- ═══════════════════════════ STATS ═══════════════════════════ -->
 
@@ -149,10 +150,12 @@ Mission    Bridge software, AI & robotics
   <td valign="top"><img src="https://ghstats.dev/api/langs?username=ueux&theme=radical&max_langs=12&layout=vertical_list" width="420" alt="Top languages" /></td>
 </tr>
 </table>
+<img src="https://ghstats.dev/api/sparkline?username=ueux&theme=radical&days=30&width=820&height=100" alt="30-day contribution graph" />
 <img src="https://github-statspro.vercel.app/api/streak/ueux?theme=radical" alt="Streak card" />
+
 </div>
 
----
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=ueux&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
 <!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
 
@@ -174,7 +177,7 @@ Mission    Bridge software, AI & robotics
 
 <br>
 
----
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=ueux&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
 <!-- ═══════════════════════════ CODING STATS ═══════════════════════════ -->
 
@@ -188,10 +191,9 @@ Mission    Bridge software, AI & robotics
     <img src="https://gfgstatscard.vercel.app/harshkumadc31" width="45%" alt="GeeksforGeeks stats" />
   </a>
   <br>
-  <img src="https://github-statspro.vercel.app/api/activity/ueux?theme=radical" alt="GitHub activity graph" />
 </div>
 
----
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=ueux&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
 <!-- ═══════════════════════════ CONTACT ═══════════════════════════ -->
 

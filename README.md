@@ -111,6 +111,12 @@ Mission    Bridge software, AI & robotics
 </table>
 </div>
 
+
+
+<!-- <p align="center">
+<img src="https://www.gitskins.com/api/section/heatmap?username=ueux&theme=github-dark&style=jet&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F173175073%3Fu%3D7270b905c39f82dfff7eebcc119ffd6183ad65a7%26v%3D4&v=showcase-heatmap-3" alt="Harsh Kumar heatmap visual" />
+</p> -->
+
 ---
 
 <!-- ═══════════════════════════ CONTRIBUTIONS ═══════════════════════════ -->
@@ -152,14 +158,19 @@ Mission    Bridge software, AI & robotics
 
 <h3 align="center"><code>harsh@github ~ $ ls projects/</code></h3>
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/ueux/ULOGS">
     <img src="https://github-statspro.vercel.app/api/repo?theme=radical&owner=ueux&repo=ULOGS" width="48%" alt="ULOGS repository card" />
   </a>
   <a href="https://github.com/ueux/UTube">
     <img src="https://github-statspro.vercel.app/api/repo?theme=radical&owner=ueux&repo=UTube" width="48%" alt="UTube repository card" />
   </a>
-</div>
+</div> -->
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=ueux&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F173175073%3Fu%3D7270b905c39f82dfff7eebcc119ffd6183ad65a7%26v%3D4&repos=ueux%2FNarrax%2Cueux%2FMerlin%2Cueux%2FUTest%2Cueux%2FUAuth&v=cinematic-projects-2&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=ueux&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F173175073%3Fu%3D7270b905c39f82dfff7eebcc119ffd6183ad65a7%26v%3D4&repos=ueux%2FNarrax%2Cueux%2FMerlin%2Cueux%2FUTest%2Cueux%2FUAuth&v=cinematic-projects-2&mode=dark" width="100%" alt="Harsh Kumar cinematic project reel" />
+</picture>
 
 <br>
 

@@ -187,8 +187,8 @@ Mission    Bridge software, AI & robotics
   <a href="https://leetcode.com/ueu_x" target="_blank">
     <img src="https://leetcard.jacoblin.cool/ueu_x?theme=unicorn&font=patrick_hand&ext=heatmap" width="45%" alt="LeetCode stats" />
   </a>
-  <a href="https://www.geeksforgeeks.org/user/harshkumadc31/" target="_blank">
-    <img src="https://gfgstatscard.vercel.app/harshkumadc31" width="45%" alt="GeeksforGeeks stats" />
+  <a href="https://www.geeksforgeeks.org/user/hemenderk23q8/" target="_blank">
+    <img src="https://gfgstatscard.vercel.app/hemenderk23q8" width="45%" alt="GeeksforGeeks stats" />
   </a>
   <br>
 </div>
